@@ -12,6 +12,6 @@
 > **<code> git add * </code>** Esse comando adiciona todos os arquivos tambem com a opção de adicionar todos os arquivos com extensão especifica  <code> "git add *.cs" </code>
 > <code>**git add Arquivo.extensão** </code> Adiciona um unico arquivo.
   
-><code>**git status**</code> mostra os arquivos em unmodified, untracked e modified.
+><code>**git status**</code> mostra os arquivos em unmodified, untracked e modified.<br>
 ><code>**git rm -rf "nome do arquivo"** </code> remove os arquivos do repositório.
  

@@ -13,5 +13,5 @@
 > <code>**git add Arquivo.extensão** </code> Adiciona um unico arquivo.
   
 ><code>**git status**</code> mostra os arquivos em unmodified, untracked e modified.
-><code>**git rm -rf "nome do arquivo"** remove os arquivos do repositório.
+><code>**git rm -rf "nome do arquivo"** </code> remove os arquivos do repositório.
  

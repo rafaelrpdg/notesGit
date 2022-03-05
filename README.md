@@ -20,4 +20,14 @@
 ><code>git log</code> mostra todos os commits, seus titulos, com o hash, data e hora e autor.
 ><code>git log --author="nome do autor"</code> Aqui mostra os commits filtrado por autor.
 ><code>git shortlog </code> Mostra por ordem de autor todos os commits feito pelo autor. <code>git shortlog -sn</code> com esse adicional do -sn voce consegue só os nomes com a numeração de quantos commits cada um fez. 
+><code>git log --graph</code> Mostra os commits e o grafico das brands.
+  
 ><code>git config -l</code> lista as configurações.
+
+  
+><code>git show 'hash'</code> Mostra os detalhes do commits, modificações...
+  
+><code>git diff</code> Mostra as alterações antes do commit
+
+  
+  

@@ -15,3 +15,9 @@
 ><code>**git status**</code> mostra os arquivos em unmodified, untracked e modified.<br>
 ><code>**git rm -rf "nome do arquivo"** </code> remove os arquivos do repositório.
  
+><code>git commit -m "Mensagem"</code> O comando commit salva no .git o estado atual dos arquivos com uma mensagem.
+  
+><code>git log</code> mostra todos os commits, seus titulos, com o hash, data e hora e autor.
+><code>git log --author="nome do autor"</code> Aqui mostra os commits filtrado por autor.
+><code>git shortlog </code> Mostra por ordem de autor todos os commits feito pelo autor. <code>git shortlog -sn</code> com esse adicional do -sn voce consegue só os nomes com a numeração de quantos commits cada um fez. 
+><code>git config -l</code> lista as configurações.
